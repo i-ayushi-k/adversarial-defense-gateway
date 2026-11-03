@@ -1,0 +1,35 @@
+# Python environments
+.venv/
+.venv-1/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Hugging Face credentials and caches
+.cache/
+.huggingface/
+hub/
+
+# Model weights
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# IDE files
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
