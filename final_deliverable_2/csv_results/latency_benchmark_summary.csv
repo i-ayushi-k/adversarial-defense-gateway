@@ -1,0 +1,2 @@
+samples,device,mean_latency_ms,median_latency_ms,p95_latency_ms,min_latency_ms,max_latency_ms,estimated_sequential_throughput_prompts_per_second,warmup_runs_excluded,repeats_per_prompt
+50,cpu,141.53283587333135,139.8331049999797,161.54796811644397,128.26728566657644,164.81894700003372,7.065498220462262,5,3

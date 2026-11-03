@@ -1,0 +1,7 @@
+transformation,samples,false_positives,consistency_rate,mean_absolute_score_change,mean_malicious_score,false_positive_rate_percent,consistency_rate_percent
+CaseVariation,50,9,0.92,0.07332365962520726,0.17783638983066338,18.0,92.0
+EducationalFraming,50,5,0.96,0.03285696250603337,0.10444763375616617,10.0,96.0
+Original,50,5,1.0,0.0,0.10451274521100458,10.0,100.0
+PoliteFraming,50,3,0.96,0.046145231390341906,0.05934544873291543,6.0,96.0
+PunctuationVariation,50,5,1.0,0.0032645308277187723,0.10160527845159095,10.0,100.0
+WhitespaceVariation,50,5,1.0,0.0,0.10451274521100458,10.0,100.0
